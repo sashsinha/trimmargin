@@ -10,6 +10,7 @@
 <a href="https://pypi.org/project/trimmargin/"><img alt="Python Versions" src="https://img.shields.io/pypi/pyversions/trimmargin.svg"></a>
 <a href="https://pypi.org/project/trimmargin/"><img alt="PyPI Status" src="https://img.shields.io/pypi/status/trimmargin"></a>
 <a href="https://raw.githubusercontent.com/sashsinha/trimmargin/main/LICENSE"><img alt="License: MIT" src="https://raw.githubusercontent.com/sashsinha/simple-file-checksum/main/license.svg"></a>
+<a href="https://pepy.tech/project/trimmargin"><img alt="Downloads" src="https://pepy.tech/badge/trimmargin"></a>
 </p>
 
 ---
